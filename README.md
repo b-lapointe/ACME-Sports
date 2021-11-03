@@ -1,7 +1,7 @@
 
 ![ACME Sports Demo GIF](https://user-images.githubusercontent.com/83025252/140233618-9fa761b9-a3f4-489b-8f00-c804d9187009.gif)
 
-This is a project created using REACT.
+This is a Web app project created using REACT.
 
 Inspiration for the UI was taken from pre-exsiting sporting websites such as espn.com and NFL.com.
 
