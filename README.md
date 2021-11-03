@@ -19,4 +19,6 @@ Therefore, I thought showing what the application could look like in a full webs
 Although the search bar in the header is for looks, the NFL teams search bar is functioning. It can filter and display using the team names, conference and divison.
 
 The football images are also meant more as a placeholder for UI purposes. Due to no image urls being inclded in the JSON file.
+  Also, due other things I would have added if they were included in the JSON would be links to other section of the sites to keep the user on their page.
+  I would rearrange the team cards to also include links to perhaps team pages, blog posts relating to the team or a link to other options listed in the white dropdown menu.
   
