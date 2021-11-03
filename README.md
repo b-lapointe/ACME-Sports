@@ -22,4 +22,4 @@ The football images are also meant more as a placeholder for UI purposes. Due to
   Also, due other things I would have added if they were included in the JSON would be links to other section of the sites to keep the user on their page.
   I would rearrange the team cards to also include links to perhaps team pages, blog posts relating to the team or a link to other options listed in the white dropdown menu.
   
-It is ideal to be viewed on desktop at the moment, however making it mobile friendly would be a simple addition to the pre-existent code.
+It is ideal to be viewed on desktop at the moment. However, making it mobile friendly would be a simple addition to the pre-existent code.
