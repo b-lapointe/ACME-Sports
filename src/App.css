@@ -1,0 +1,44 @@
+.App {
+  padding-bottom: 65px;
+}
+
+.NFL-teams {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 125px;
+  padding: 10px 0;
+  margin: 0 100px;
+}
+
+.left-side {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+}
+
+.NFL-logo {
+  height: 114px;
+  margin-right: 35px;
+}
+
+.search-box {
+  width: 400px;
+  height: 15px;
+  outline: none;
+  border: 1px solid grey;
+  border-radius: 30px;
+  padding: 15px 20px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #FFFFFF;
+  border-radius: 30px;
+  margin: 0 100px;
+  padding: 48px;
+}
