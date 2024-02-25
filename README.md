@@ -31,3 +31,5 @@ It is ideal to be viewed on desktop at the moment. However, making it mobile fri
 ![ACME Sports Conference Search](https://user-images.githubusercontent.com/83025252/140235235-f58f50d1-9ccf-4864-af8f-09918331a071.png)
 
 ![ACME Sports Division Search](https://user-images.githubusercontent.com/83025252/140235298-b5039027-87f6-4539-8db1-0f916a9c386e.png)
+
+Note: a demo is currently in progress for my website. Soon visitors will be able to view the functional version live.
